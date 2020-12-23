@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circular_Buffer", "Circular_Buffer\Circular_Buffer.vcxproj", "{381AB749-E0E9-4925-A5C2-B8F022230594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Debug|x64.ActiveCfg = Debug|x64
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Debug|x64.Build.0 = Debug|x64
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Debug|x86.ActiveCfg = Debug|Win32
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Debug|x86.Build.0 = Debug|Win32
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Release|x64.ActiveCfg = Release|x64
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Release|x64.Build.0 = Release|x64
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Release|x86.ActiveCfg = Release|Win32
+		{381AB749-E0E9-4925-A5C2-B8F022230594}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0EAA30-2022-4B51-9029-C703CB7A5BB6}
+	EndGlobalSection
+EndGlobal

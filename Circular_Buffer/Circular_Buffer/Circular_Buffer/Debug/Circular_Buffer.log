@@ -1,0 +1,5 @@
+﻿  Algorithm.c
+C:\Users\Terence\Documents\Circular_Buffer\Circular_Buffer\Circular_Buffer\Algorithm.c(60,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Terence\Documents\Circular_Buffer\Circular_Buffer\Circular_Buffer\Algorithm.c(81,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Terence\Documents\Circular_Buffer\Circular_Buffer\Circular_Buffer\Algorithm.c(103,15): warning C4018: '<': signed/unsigned mismatch
+  Circular_Buffer.vcxproj -> C:\Users\Terence\Documents\Circular_Buffer\Circular_Buffer\Debug\Circular_Buffer.exe
